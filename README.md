@@ -1,13 +1,13 @@
-# Hi, I'm Darrel Adinarya Sunanda 👋
+# Darrel Adinarya Sunanda
 
 **Systems & Software Engineer** · Lab Coordinator at Parallel & Distributed Systems Laboratory (Lab Sister), ITB  
-📍 Jakarta, Indonesia · 🌐 Tokyo-bound · ✉️ `darrelyanuar@gmail.com`
+Jakarta, Indonesia · Tokyo-bound · `darrelyanuar@gmail.com`
 
 ---
 
 I build resilient backend systems, distributed consensus protocols, and low-level network infrastructure. Focused on systems programming, fault-tolerant architectures, and understanding what happens underneath the abstraction layer.
 
-### 🛠️ Featured Systems & Open-Source Projects
+### Featured Projects
 
 | Project | Description | Core Stack |
 | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ I build resilient backend systems, distributed consensus protocols, and low-leve
 
 ---
 
-### 💻 Technical Stack
+### Technical Stack
 
 - **Languages:** Go · Rust · Python · C · C++ · TypeScript · JavaScript · x86 Assembly
 - **Distributed & Systems:** Raft Consensus · Event-Driven Architecture · Concurrency & IPC · Socket Programming · TCP/IP
@@ -29,8 +29,8 @@ I build resilient backend systems, distributed consensus protocols, and low-leve
 
 ---
 
-### 📌 Current Focus & Timeline
+### Current Pursuits
 
-- 🎓 **Undergraduate Degree:** B.S. in Computer Science at **Institut Teknologi Bandung** (graduating October 2027).
-- 🔬 **Research / Thesis:** Sharding architectures, cross-shard access protocols, and distributed consensus mechanisms.
-- 🇯🇵 **Language:** Studying Japanese toward **JLPT N4** (Fast Offer classes + self-study).
+- **Undergraduate Degree:** B.S. in Computer Science at **Institut Teknologi Bandung** (graduating October 2027).
+- **Research / Thesis:** Sharding architectures, cross-shard access protocols, and distributed consensus mechanisms.
+- **Language:** Studying Japanese toward **JLPT N4**.
