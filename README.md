@@ -1,7 +1,7 @@
 # Darrel Adinarya Sunanda
 
 **Systems & Software Engineer** · Lab Coordinator at Parallel & Distributed Systems Laboratory (Lab Sister), ITB  
-Jakarta, Indonesia · `darrelyanuar@gmail.com`
+Bandung / Jakarta, Indonesia
 
 ---
 
