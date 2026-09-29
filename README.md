@@ -23,11 +23,12 @@ I build resilient backend systems, distributed consensus protocols, and low-leve
 
 ### Technical Stack
 
-- **Languages:** Go · Rust · Python · C · C++ · TypeScript · JavaScript · x86 Assembly
-- **Frontend:** React · Next.js · TypeScript · Tailwind CSS
-- **Distributed & Systems:** Consensus Protocols · Event-Driven Architecture · Concurrency & IPC · Socket Programming · TCP/IP
-- **Storage & Databases:** PostgreSQL · SQLite
-- **DevOps & Infrastructure:** Docker · Kubernetes · Linux / Unix Systems · CI/CD (GitHub Actions, GitLab CI)
+- **Languages:** Python · Go · Rust · C · C++ · Java · TypeScript · JavaScript · x86 Assembly
+- **Distributed Systems:** Event-Driven Architecture · Transactional Outbox · Kafka/Redpanda · Consensus Protocols · Concurrency
+- **Networking:** Socket Programming · TCP/IP · Routing Protocols (OSPF/BGP) · VLANs · DNS
+- **Infrastructure & DevOps:** Docker · Kubernetes · Linux / Unix Systems · CI/CD (GitHub Actions, GitLab CI)
+- **Databases:** PostgreSQL · SQLite
+- **Frontend:** React · Next.js · Vue.js · Alpine.js
 
 ---
 
