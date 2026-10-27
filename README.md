@@ -17,7 +17,7 @@ I build resilient backend systems, distributed consensus protocols, and low-leve
 | **[OverridOS](https://github.com/Darsua/OverridOS)** | Custom 32-bit x86 Protected Mode operating system kernel with memory paging, interrupt handling (IDT/PIC), and an interactive shell. | `C` `x86 Assembly` `OS Internals` |
 | **[YoRHa-PascalCompiler](https://github.com/Darsua/YoRHa-PascalCompiler)** | Pascal-S language compiler featuring DFA/switch-based lexical analysis, symbol tables, and recursive descent parsing. | `C++` `Compilers` `Language Design` |
 | **[Sister-B2](https://github.com/Darsua/Sister-B2)** | Systems infrastructure suite featuring a bare-metal x86-64 assembly HTTP server, custom blockchain, and containerized Kubernetes deployments. | `x86 Assembly` `Kubernetes` `Docker` `Go` |
-| **[WebBrewery](https://github.com/Staryo40/Tubes2_WebBrewery)** | Full-stack pathfinding solver featuring a Go REST API backend, Next.js frontend, and bidirectional graph search algorithms. | `Go` `Next.js` `Docker` `Algorithms` |
+| **[BNPB Disaster Platform](https://github.com/Darsua/AAT)** | Event-driven hazard aggregation platform in Go 1.22 harmonizing real-time seismic & volcanic telemetry, backed by PostgreSQL Transactional Outbox and Redpanda (Kafka) streaming. | `Go` `Redpanda (Kafka)` `PostgreSQL` `Docker` |
 
 ---
 
